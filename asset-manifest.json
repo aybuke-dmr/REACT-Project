@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imaga-gallery-app/static/css/main.c3e24108.css",
+    "main.js": "/imaga-gallery-app/static/js/main.d00cf473.js",
+    "index.html": "/imaga-gallery-app/index.html",
+    "main.c3e24108.css.map": "/imaga-gallery-app/static/css/main.c3e24108.css.map",
+    "main.d00cf473.js.map": "/imaga-gallery-app/static/js/main.d00cf473.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e24108.css",
+    "static/js/main.d00cf473.js"
+  ]
+}
